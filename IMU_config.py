@@ -1,6 +1,4 @@
 import numpy as np
-from config.ServoCalibration import MICROS_PER_RAD, NEUTRAL_ANGLE_DEGREES
-from enum import Enum
 
 
 class IMU_config:
